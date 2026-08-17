@@ -1,0 +1,3 @@
+﻿aiogram
+opencv-python-headless
+rembg[cpu]
