@@ -1,3 +1,6 @@
 ﻿aiogram
 opencv-python-headless
 rembg[cpu]
+fastapi
+uvicorn
+pillow
